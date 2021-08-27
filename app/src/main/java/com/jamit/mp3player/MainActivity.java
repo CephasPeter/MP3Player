@@ -29,7 +29,7 @@ import com.jamit.mp3player.ui.player.PlayScreenFragment;
 import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
-    //ike@jamitfm.com
+   
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
